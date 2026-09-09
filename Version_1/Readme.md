@@ -1,18 +1,20 @@
-**How to build an Alsomitra Microglider**
-![Assembly Diagram](https://raw.githubusercontent.com/ckessler2/phd/main/UW_Flier/Flier%20Structure/Assembly_Diagram.png)
-**Required materials and tools:**
-* 3.6 or 5 micron mylar sheet
-* 0.25mm diameter carbon rod
-* Glue (BSI maxi-cure extra thick)
-  
-* Structural jig & 14 alignment washers (3D printed plastic)
-* 14 Alignment pins (1.6mm)
+# How to Build an Alsomitra Microglider
 
-**Manufacturing steps:**
-1. Prepare materials - laser cut flier base from mylar (Flier_Base.dxf), cut rod to a length of 30.4 cm
-2. Prepare tools - ensure pins fit snugly into jig (Jig.stl), and that washers (Jig_Washers.stl) fit snugly onto pins. If not, bore out jig and washers to fit
-3. Assemble materials in jig - fit pins into jig, base onto jig through pins, and washers onto pins (as far down as possible).
-4. Align rod - carefully bend rod (it is fragile) until it sits on one side, and gently push from the other side until it lays corrrectly along the entire front edge. Ensure the rod sits on top of the base, but not under any washers
-5. Glue rod to base - using a thin wire or stick, place small amounts of glue around and along the length of the rod and flier edge. Ideally do not glue anything to the washers or jig - this will make removal difficult
-6. Wait for glue to set, at least 3 hours
-7. Remove flier - carefully remove washers and lift flier out. If necessary break tabs around each pin, and trim the edge clean.
+![Assembly Diagram](https://raw.githubusercontent.com/ckessler2/phd/main/UW_Flier/Flier%20Structure/Assembly_Diagram.png)
+
+## Materials & Tools
+- 3.6 or 5 micron mylar sheet
+- 0.25mm diameter carbon rod
+- Glue (BSI Maxi-Cure, extra thick)
+- Structural jig + 14 alignment washers (3D printed)
+- 14 alignment pins (1.6mm)
+
+## Steps
+
+1. **Cut the base.** Laser cut the flier base from mylar using `Flier_Base.dxf`. Cut the carbon rod to 30.4 cm.
+2. **Check fit.** Confirm pins fit snugly in the jig (`Jig.stl`) and washers fit snugly on the pins (`Jig_Washers.stl`). Bore out either if too tight.
+3. **Assemble the jig.** Insert pins into the jig, place the base over the pins, then push washers down as far as they'll go.
+4. **Align the rod.** Gently bend the rod (it's fragile) and work it into place along the entire front edge. It should rest on top of the base — not tucked under any washers.
+5. **Glue.** Using a thin wire or stick, apply small amounts of glue along the rod and the flier's edge. Avoid getting glue on the washers or jig — it makes removal harder.
+6. **Cure.** Let the glue set for at least 3 hours.
+7. **Remove the flier.** Take out the washers and lift the flier free. If tabs around the pins won't release, break them off, then trim the edge clean.
