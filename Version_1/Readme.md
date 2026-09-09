@@ -1,4 +1,4 @@
-**How to build an Alsomitra Microflier**
+**How to build an Alsomitra Microglider**
 ![Assembly Diagram](https://raw.githubusercontent.com/ckessler2/phd/main/UW_Flier/Flier%20Structure/Assembly_Diagram.png)
 **Required materials and tools:**
 * 3.6 or 5 micron mylar sheet
